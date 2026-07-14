@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Chor SinoPhonia//ForceUpdate-v247cdb52//DE
+PRODID:-//Chor SinoPhonia//ForceUpdate-v0e51a097//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-CALENDAR-VERSION:v247cdb52
+X-CALENDAR-VERSION:v0e51a097
 X-WR-CALNAME:Chor SinoPhonia Kalender
 X-WR-CALDESC:斯图加特华韵合唱团 2026 年 活动计划
 X-WR-TIMEZONE:Europe/Berlin
@@ -25,8 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:49a1027eca57ccb55d9ad63fcf1484d7@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:bc424ecd666c6d626e92e8943ce2ed65@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20251224T120000
 DTEND:20251224T120100
 SUMMARY:📌 通知 CS-NT-2025-01
@@ -34,7 +34,7 @@ LOCATION:Online/Info
 DESCRIPTION:事件ID: CS-NT-2025-01\n日历系统测试通知：\n恭喜您成功订阅了可以随时查的华韵合唱团2026年活动日程了\n
  请您现在把日历里所列华韵合唱团日历的节目截图发到合唱团微信群，\n在合唱团群今天发布这个截图的前20人将获得专属红包的奖励。\n说明：
  参加日历开发测试小组的小白兔们每人也将获得红包奖励。
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:notice
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -46,15 +46,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e45ac0f413f1ea80038f6b2e6d53c41a@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:690d5da8206d8564058d2c6bdd15c273@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20251231T235900
 DTEND:20260101T000000
 SUMMARY:📌 新年问候 CS-NT-2025-02
 LOCATION:Online/Info
 DESCRIPTION:事件ID: CS-NT-2025-02\n斯图加特华韵合唱团的老师和团员们，新年好！\n祝大家在 2026 年健康快乐，
  事业有成，万事如意\n祝我们合唱团在新的一年里也蒸蒸日上！
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:notice
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -66,14 +66,14 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5978353f329a715a74fd244b88181700@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:7d96feba79bcd43ca11f00a1e28b764c@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260115T090000
 DTEND:20260115T090100
 SUMMARY:📌 排练通知 CS-NT-2026-01
 LOCATION:Online/Info
 DESCRIPTION:事件ID: CS-NT-2026-01\n大家好，\n请注意：1月18号排练的类型、25号排练的时间、地点有变化。
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:notice
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -85,14 +85,14 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:67abe4234b484786e528888d3145ce04@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4dfd1758751204cc95e9661b0152d1b6@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260123T190000
 DTEND:20260123T190100
 SUMMARY:📌 排练通知 CS-NT-2026-02
 LOCATION:Online/Info
 DESCRIPTION:事件ID: CS-NT-2026-02\n大家好，\n请注意：1月25号排练的时间、地点有变化。
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:notice
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -104,8 +104,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:761dd76c853179c7f2594bd59aa9c5a4@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:d6bbdcaedb0f18606ba62769a0135ef9@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20251221T143000
 DTEND:20251221T173000
 SUMMARY:🎤 AI技术讲座 CS-LC-2025-01
@@ -114,7 +114,7 @@ DESCRIPTION:事件ID: CS-LC-2025-01\n主讲人：吴张开 博士（霍恩海姆
  技术的现状和前景及对我们的影响\n14:30–17:30 专家讲座\n讲座将回顾人工智能的发展历程，介绍基础技术与关键概念，并展望未来AI在社会、
  \n经济与日常生活中的潜在影响。活动旨在帮助听众建立整体理解框架，思考技术变革\n可能带来的各种深层社会影响以及对音乐的影响，并希望通过开放讨论，
  让大家从多\n视角理解并审视这场变革。\n17:30–19:30 自主排练
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:lecture
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -126,8 +126,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6b66733eddfcd77495bf33c59e6b2612@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:b111009ade5ed8254ae70e63ec4384ca@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260201T180000
 DTEND:20260201T210000
 SUMMARY:🎭 斯图春晚 CS-PF-2026-01
@@ -137,7 +137,7 @@ DESCRIPTION:事件ID: CS-PF-2026-01\n指导老师：王盛涵老师、郭蔚然�
  17:00，16:45 到大厅外候场\n演出服装：女声：上红下白渐变长裙+黑色皮鞋，\n         男声：白衬衣、黑色长裤、黑色皮鞋 +
  红色领节\n注意事项：关于走台后在后台的排练及晚餐等事项，请大家听从老师安排。\n         为此需要大家适时关注合唱团微信群的通知，
  并互相提醒。
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:performance
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -149,15 +149,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f5e3eed2ce6cd5f42fdabf6bb2bc55a9@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:18e11602e509134ca53a1c264baf4555@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260222T120000
 DTEND:20260222T150000
 SUMMARY:🎭 乌尔姆春晚 CS-PF-2026-02
 LOCATION:待定
 DESCRIPTION:事件ID: CS-PF-2026-02\n召集人：梁忠雄\n注意事项：提前3小时到场，带好演出服和歌谱\n2026
  乌尔姆的华人春节联欢会\n演出打击乐《喜庆锣鼓》\n相关排练、演出服装、集合时间等细节待更新及后续通知
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:performance
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -169,15 +169,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:91b408f040e6c913a10a56299abfef99@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:5882b66558e182331ef3a206a7d1a28a@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260228T120000
 DTEND:20260228T150000
 SUMMARY:🎭 汉语学校庙会 CS-PF-2026-03
 LOCATION:Ferdinand-Porsche-Gymnasium\,Haldenrainstr.136\,70437 Stuttgart
 DESCRIPTION:事件ID: CS-PF-2026-03\n召集人：梁忠雄\n斯图加特汉语学校 2026 庙会\n演出打击乐《喜庆锣鼓》\n
  相关排练、演出服装、集合时间等细节待更新及后续通知
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:performance
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -189,8 +189,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:349ab21a08cdb291c15f929e214bc5fa@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:ae0bcdf39941200a348f9c4cc0c283df@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260719T150000
 DTEND:20260719T180000
 SUMMARY:🎭 演出(纽伦堡合..) CS-PF-2026-04
@@ -198,7 +198,7 @@ LOCATION:纽伦堡文化局南城活动中心演出厅\, Pillenreuther Str . 147
 DESCRIPTION:事件ID: CS-PF-2026-04\n总负责：刘冬瑜 （纽伦堡恋歌合唱团团长）\n召集人：梁忠雄\n演出曲目：\n
  -《再回首》\n   -《萱草花》\n   -《如愿》\n   -《世纪春雨》\n   与纽伦堡恋歌合唱团共同演出：\n
  -《少林少林》（男声合唱）\n   -《亲爱的旅人啊》(女声合唱)\n   -《青春舞曲》\n相关排练、演出服装、集合时间等细节待更新及后续通知
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:performance
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -210,8 +210,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f1e16ae857bec68c6798544827e7144b@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:3b13e848fa42fec93153e8d6f4e11063@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260404T100000
 DTEND:20260406T235900
 SUMMARY:🌷 复活节集训 CS-TR-2026-01
@@ -220,7 +220,7 @@ LOCATION:Jugedgästehaus Bad Schussenried\nZellerseeweg 11\n88427 Bad
 DESCRIPTION:事件ID: CS-TR-2026-01\n集训负责人：梁忠雄\n注意：集训时间将比原计划缩短一天\n
  合唱团复活节长周末度假集训\n日程大致安排：\n4月4日：12:00 到达集训地点，下午 15:00 开始排练\n4月5日：半天排练\n4月6日：
  上午排练，午餐后返回\n具体安排详见行前通知
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:training
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -232,15 +232,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:17cb88c6c46bb6a44d27216840d85f2b@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:7c14eb6ea8d90f6c0584bf4d3bda867d@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260111T143000
 DTEND:20260111T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-01
 LOCATION:AWO，Taubenheimstr. 87，70372 Stuttgart
 DESCRIPTION:事件ID: CS-RP-2026-01\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n新年第一次常规排练\n曲目：《如愿》、《萱草花》、《世纪春雨》
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -252,8 +252,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3405fbf0caee071e92a82ecc217f9437@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:ff910db5500a423dfd2bcbc79db29e7f@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260125T160000
 DTEND:20260125T193000
 SUMMARY:🎵 常规排练 CS-RP-2026-02
@@ -261,7 +261,7 @@ LOCATION:AWO，Taubenheimstr. 87，70372 Stuttgart
 DESCRIPTION:事件ID: CS-RP-2026-02\n指导老师：王盛涵，郭蔚然\n排练曲目：《如愿》、《萱草花》、《世纪春雨》，\n
  演出前的最后一次常规排练，确定演出舞台上的队形排列\n注意事项：\n- 预习排练歌曲，如果请假提前向声部长报告\n-
  把歌谱按演出顺序装在统一规格的黑色歌谱夹里\n- 带上铅笔、马克笔，记录排练及演唱时的各项的注意事项
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -273,15 +273,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:32f72beb042cb5689605677db7cc5be1@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:ba18948340f8d5d99e27a7ffc4b08015@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260215T143000
 DTEND:20260215T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-03
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-03\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -293,15 +293,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4533ce528878669d1d6d3fc2c0e72ec3@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:8e91f67b99814f09c6ec986ed61ca246@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260301T143000
 DTEND:20260301T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-04
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-04\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -313,15 +313,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:14da668a69b62e780cb11ab13f0677eb@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:9717bd851fef9b8251ded551e8601488@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260315T143000
 DTEND:20260315T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-05
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-05\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -333,15 +333,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1fcebce116ebd841ed894b0aa3cc17c1@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:bc5ff25b49782196f943ecfae20e07cb@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260419T143000
 DTEND:20260419T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-06
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-06\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -353,8 +353,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b4ecc72fcd6e684adeb7bb3e6474317e@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:72ee6fbf982a41581148c1a0127ca75f@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260510T143000
 DTEND:20260510T143500
 SUMMARY:[已取消] 🎵 常规排练 CS-RP-2026-07
@@ -365,8 +365,8 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:b785c55cbbb68da3fc2038b398856e94@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:763abaf788039b63530bd544dccfdcd0@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260524T143000
 DTEND:20260524T143500
 SUMMARY:[已取消] 🎵 常规排练 CS-RP-2026-08
@@ -377,15 +377,15 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:66791b89ca2c45d87f2e8489d6764d65@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:7c3afd757d4cac01d99574a1d0670990@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260614T143000
 DTEND:20260614T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-09
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-09\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -397,15 +397,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3cac2958766bdc132e06bfd8f9afc0b4@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:2e7d38ea0072fca2ed3c1861b0539d6b@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260628T143000
 DTEND:20260628T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-10
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-10\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -417,15 +417,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4f888d33db861be05e7919dd915edcc2@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:a352074cb34d73e75d9eb909674941fa@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260712T143000
 DTEND:20260712T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-11
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-11\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -437,15 +437,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8c20d2dd37bf5dd1f383bd609e55a966@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:519b36ccf2c2cdfa9b4de772852e77f8@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260726T143000
 DTEND:20260726T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-12
 LOCATION:莎莎花园
 DESCRIPTION:事件ID: CS-RP-2026-12\n指导老师：王盛涵，郭蔚然\n注意事项：请自带餐具和饮料\n常规排练 +
- 夏季联欢聚会（烤肉）\n时间：13:30-15:30 排练，18:30-21:00 聚餐
-SEQUENCE:386
+ 夏季联欢聚会（烤肉肉）\n时间：13:30-15:30 排练，18:30-21:00 聚餐
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -457,15 +457,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9a4a79643f9d0fc9b1221c3e49067a1f@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:8dd6f047a97b04fac66810dec3a7e2f9@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260809T143000
 DTEND:20260809T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-13
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-13\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n暑期排练
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -477,15 +477,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9d11ab8cf85e2b5d80992445c998313c@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:e52bd8dc311e80f54dc194ba7a0c4596@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260823T143000
 DTEND:20260823T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-14
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-14\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n暑期排练
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -497,15 +497,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:602cd578e83635d067d120cce69669fe@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4639e78f2236f3d92f775013e2855f82@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260906T143000
 DTEND:20260906T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-15
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-15\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n暑期排练
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -517,15 +517,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ad0b9b2d25e4eafa088d79e2e5e53892@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:339bdca2c526f9b185c034e6e74bca1b@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260920T143000
 DTEND:20260920T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-16
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-16\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -537,15 +537,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:db1694774cd2c0c28e0c0dc266edb0c8@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:659c458da4aa8aa5e36159e526541255@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261004T143000
 DTEND:20261004T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-17
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-17\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -557,15 +557,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f51fb19828e48e478d925d3f85a21d05@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:99f84333a559c20548c7e621c8274a02@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261018T143000
 DTEND:20261018T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-18
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-18\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -577,15 +577,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a607d5e0cee378e59fc22d72dcccea5d@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:d855e0597933c12f73f07e07cd6099b8@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261101T143000
 DTEND:20261101T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-19
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-19\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -597,15 +597,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f80f4b6d258552f3e5a4e5e53038ada4@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:af5e3987072a6de5e115c5e81c17dbb0@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261115T143000
 DTEND:20261115T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-20
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-20\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -617,15 +617,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b84b1bac2c04c882a2f0c66165145993@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:62f900dc63a2b0faa66f7a1e16350273@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261129T143000
 DTEND:20261129T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-21
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-21\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -637,8 +637,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2474f27544f8babbc143ea1195da10f2@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:051ed35b18506aa5583ef3370224205a@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261213T143000
 DTEND:20261213T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-22
@@ -646,7 +646,7 @@ LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-22\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n常规排练 + 年终联欢聚会\n时间：14:30-16:30 排练，16:30 拍全家福、联欢、聚餐\n要求：
  每人带一份食物分享，记得自带餐具、水杯
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -658,8 +658,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:66df6aaa19f1960f414eed5afd7652b0@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4c6361215c98f25f53d19e74aa7dc31a@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260118T143000
 DTEND:20260118T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-23
@@ -667,7 +667,7 @@ LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-23\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n18号星期天原计划的自主排练改为常规排练。\n练习曲目：如愿、萱草花、世纪春雨\n注意事项：把歌谱按演出顺序（第1、
  第2 页在一个“版面”……）\n装在演出用的统一的黑色歌谱夹里。没有歌谱夹的请自行购买。\n带上铅笔记录排练中老师对如何演唱所提出的注意事项。
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -679,15 +679,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e94263a62a172dcc778764c93b0ad788@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:957b9336bae10308ac0ed91fb6f0d4c4@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260607T143000
 DTEND:20260607T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-24
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-24\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -699,8 +699,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aa484250ad729f8dd8c48f41044a3929@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:e91836e6d32f60366a96b1579c9503be@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260621T143000
 DTEND:20260621T143500
 SUMMARY:[已取消] 🎵 常规排练 CS-RP-2026-25
@@ -711,15 +711,15 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:09562ddc05a3105d42c211b57e268f23@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:96742cadd90dd2cbe6320deadaec6aa0@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260705T143000
 DTEND:20260705T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-26
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-26\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -731,15 +731,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:04dbe9051455fdefeab68033a99b437c@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4da6d1d8a2245d0cc5ee8f832fe7de36@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260531T143000
 DTEND:20260531T173000
 SUMMARY:🎵 常规排练 CS-RP-2026-27
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-RP-2026-27\n指导老师：王盛涵，郭蔚然\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:regel_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -751,15 +751,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e1e2f7eab22b5b45c7ca83fb3cb29e40@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:62d2808e2c72c9953f0532b292881c7a@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260104T143000
 DTEND:20260104T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-01
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-01\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告\n为2月1号斯图春晚演出做准备，重点练习
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -771,8 +771,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1dcc69a9a9c30b12eb29031dbdbebedf@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:226ee7bdbd121fa1c8e7085541713f91@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260118T143000
 DTEND:20260118T143500
 SUMMARY:[已取消] 🎶 自主排练 CS-ZP-2026-02
@@ -783,15 +783,15 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:9d69c5b4de97e8f975205000b57198f4@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:e380d6c412ddd68b46a32d29f585546b@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260322T143000
 DTEND:20260322T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-03
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-03\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -803,15 +803,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5d081a5885887c4a6b59ca0c1a670281@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:518249fdaafa5c0b0c0b6c969f20a507@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260329T143000
 DTEND:20260329T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-04
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-04\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -823,15 +823,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:174fee0615647811832c024542d0469c@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:92af1c4667ad4e643d86bb5f1aa34912@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260412T143000
 DTEND:20260412T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-05
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-05\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -843,15 +843,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d7318d26d36d506848330917988e80d0@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:71ed90bde58458dbdc6e5620092cbddc@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260503T143000
 DTEND:20260503T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-06
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-06\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -863,15 +863,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7fa70df7adeb0df742eeea760b9ae507@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:88b80780adc5f5cf477973b04bf808d2@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260517T143000
 DTEND:20260517T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-07
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-07\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -883,8 +883,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:afa44dd9511fc6f566cc88c64c15503d@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:fd977dd24a6612d37e61e41082e9187a@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260531T143000
 DTEND:20260531T143500
 SUMMARY:[已取消] 🎶 自主排练 CS-ZP-2026-08
@@ -895,8 +895,8 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:dcc00e1bbfafb5f980ad905839c90926@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:90e47aca63fa2ae20bee278759ec8216@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260607T143000
 DTEND:20260607T143500
 SUMMARY:[已取消] 🎶 自主排练 CS-ZP-2026-09
@@ -907,15 +907,15 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:a01bef2b9412ba0d5a4012f590c3ffc4@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4685397e7cb9ac1f01a793ef3ba71691@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260621T143000
 DTEND:20260621T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-10
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-10\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -927,8 +927,8 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f51779a87dfd23f6a0a18ba8c0c6bc85@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:165c9bd37f0905bd98da39d6f37be2a5@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260705T143000
 DTEND:20260705T143500
 SUMMARY:[已取消] 🎶 自主排练 CS-ZP-2026-11
@@ -939,8 +939,8 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:ecc394049cf6342341b79fe0cb9c1c62@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:32cdb7cc769ed1230f20af1a840782ec@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260719T143000
 DTEND:20260719T143500
 SUMMARY:[已取消] 🎶 自主排练 CS-ZP-2026-12
@@ -951,15 +951,15 @@ ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
  sinophonia@online.de
 END:VEVENT
 BEGIN:VEVENT
-UID:fce174d8b9114be996027d7318cac532@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:771e672b98fabeb86b2d30789bca7557@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260802T143000
 DTEND:20260802T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-13
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-13\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -971,15 +971,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9c6074dc429a2ec85f5b2ccedc9eabbe@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:22e0bbea7b52978fc236d5f7808972b4@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260816T143000
 DTEND:20260816T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-14
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-14\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -991,15 +991,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aa13c2e8120405e68aace735cb8f5fa5@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:2e9f19658e935b8469bb2a9df975c3c4@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260830T143000
 DTEND:20260830T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-15
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-15\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1011,15 +1011,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d9b03b86d3e03ece120110c054017220@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:3720b410bb55272dd9c2d10d284c5c95@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260913T143000
 DTEND:20260913T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-16
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-16\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1031,15 +1031,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b1e84f6dfdc4eaf3769788bd47c8508d@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:4ef5fb8988ed0a8e8b3c352767a89996@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260927T143000
 DTEND:20260927T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-17
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-17\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1051,15 +1051,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:32aa049c16c876c46c11fb8cba836cd8@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:39caf0d32273a82086854324aea002c1@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261011T143000
 DTEND:20261011T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-18
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-18\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1071,15 +1071,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:200ea530a18b8bf28afb701052aa7d8e@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:bf098f503c0f5b716d016a1f0fbf13f6@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261025T143000
 DTEND:20261025T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-19
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-19\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1091,15 +1091,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:043808957c5a95f46f882ef11465442d@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:5517881c3198cddbc4c8a3d0273b68b1@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261108T143000
 DTEND:20261108T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-20
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-20\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1111,15 +1111,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8d352b461f19274819e017e4e9bc60d1@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:d33efa6f0328cec95b643787b07510a7@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261122T143000
 DTEND:20261122T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-21
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-21\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1131,15 +1131,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4a151d38c9c6b1c5621b32e5a938a644@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:bd36b5b9bf77ead1d7980e5783aa9765@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261206T143000
 DTEND:20261206T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-22
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-22\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1151,15 +1151,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a89935a4462d16fd7ce68be8a4e64017@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:06da52ffb6cf802def634b5d1806df49@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20261220T143000
 DTEND:20261220T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-23
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-23\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1171,15 +1171,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0d3314ae6c6c4c7cc4dc122acc075239@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:959bada061cca95d1d0c81e43ffe416c@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260510T143000
 DTEND:20260510T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-24
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-24\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
@@ -1191,15 +1191,15 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2978819d9c0a12ba70d54afd003869d3@chorsinophonia.de
-DTSTAMP:20260612T000000
+UID:8ce6eecabc93bc06c0193fe70dbeb6f4@chorsinophonia.de
+DTSTAMP:20260714T000000
 DTSTART:20260524T143000
 DTEND:20260524T173000
 SUMMARY:🎶 自主排练 CS-ZP-2026-25
 LOCATION:Verwaltungsgebäude，Marktplatz 10，70372 Stuttgart-Bad Cannstatt
 DESCRIPTION:事件ID: CS-ZP-2026-25\n主持人：团长+声部长\n注意事项：预习排练歌曲，带上歌谱、笔记本、铅笔。
  如果请假提前向声部长报告
-SEQUENCE:386
+SEQUENCE:551
 CATEGORIES:zusatz_probe
 STATUS:CONFIRMED
 ORGANIZER;CN="Chor SinoPhonia Stuttgart e.V.":mailto:chor.
